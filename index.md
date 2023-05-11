@@ -19,3 +19,5 @@
 [arduino](https://www.tinkercad.com/things/kScR10VLJrr-ied-/editel)
 
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%203.png)
+
+[tinker this](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%203.png)
