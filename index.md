@@ -24,3 +24,5 @@
 
 [TINKER THIS](https://www.tinkercad.com/things/49uP0qPtjFa-led-3/editel)
 
+![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/DAY%203.png)
+
