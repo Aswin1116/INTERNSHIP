@@ -21,3 +21,6 @@
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%203.png)
 
 [tinker this](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%203.png)
+
+[TINKER THIS](https://www.tinkercad.com/things/49uP0qPtjFa-led-3/editel)
+
