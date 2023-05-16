@@ -1,4 +1,4 @@
-# 10 dayes internship 
+# 10 days internship 
 
 ## Day1
 
@@ -30,4 +30,10 @@
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/blokly.png)
 
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/blockly%202.png)
+
+## Day5
+
+### 7 Segment
+
+![iiy](https://github.com/aswinunn/INTERNSHIP/blob/main/img/DAY5.png)
 
