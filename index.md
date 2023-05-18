@@ -46,4 +46,6 @@
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day6.png)
 
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%206.png)
+## DAY 8
+![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/analog.png)
 
