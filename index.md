@@ -39,5 +39,7 @@
 
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%205.png)
 
-![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%205.png)
+![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day%205.png)\
+
+![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/day6.png)
 
