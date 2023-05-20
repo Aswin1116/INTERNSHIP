@@ -50,3 +50,4 @@
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/analog.png)
 
 ### day 10
+![iii}(https://github.com/Aswin1116/INTERNSHIP/blob/main/img/day%2010.png)
