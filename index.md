@@ -49,3 +49,4 @@
 ## DAY 8
 ![iii](https://github.com/aswinunn/INTERNSHIP/blob/main/img/analog.png)
 
+### day 10
